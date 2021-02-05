@@ -4,6 +4,8 @@
 //
 //  Created by Alan Sampson on 2/3/21.
 //
+//  compiler command line settings: -Wall -Wextra -pedantic -O1
+//
 
 #include <stdio.h>
 #include <stdlib.h>
